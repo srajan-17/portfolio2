@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-## Type [portfolio-fc652.firebaseapp.com](portfolio-fc652.firebaseapp.com) into a web browser to see my personal portfolio website created using React.
+## Type ```portfolio-fc652.firebaseapp.com``` into a web browser to see my personal portfolio website created using React.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
