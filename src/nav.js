@@ -15,6 +15,9 @@ function NavBar(props) {
     return (
         <List style={flexContainer}>
             <ListItem component="div">
+                <Button variant="contained" onClick={props.clickHome}>Home</Button>
+            </ListItem >
+            <ListItem component="div">
                 <Button variant="contained" onClick={props.clickAbout}>About</Button>
             </ListItem >
             <ListItem component="div">
