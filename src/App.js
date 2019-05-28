@@ -8,6 +8,7 @@ import About from "./about";
 import Projects from "./projects";
 import Resume from "./resume";
 import Contact from "./contact";
+import LinkBar from "./nav2";
 
 class App extends React.Component {
   state = {
@@ -98,7 +99,7 @@ class App extends React.Component {
         {contactVisible}
 
         <br />
-        <Button variant="contained" color="primary">Hello World</Button>
+        <LinkBar />
       </div>
     );
   }

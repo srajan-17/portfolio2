@@ -2,9 +2,8 @@ import React from 'react';
 
 function Projects(props) {
 
-    return (
-        <h1>The Projects Page</h1>
-    )
+    let words = <h1>The Projects Page</h1>
+    return words;
 
 
 }
